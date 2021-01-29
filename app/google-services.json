@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282578284482",
+    "project_id": "angkotsmedan",
+    "storage_bucket": "angkotsmedan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282578284482:android:61fdd7e01f1454132cb05b",
+        "android_client_info": {
+          "package_name": "com.highground.angkotsmedan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282578284482-4n5kkvg8k5ls5ibn0vtmnqjiintmqa49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPwlVRWF8nfnjcJzP1vcFr0jo0ZU6ksh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282578284482-4n5kkvg8k5ls5ibn0vtmnqjiintmqa49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
